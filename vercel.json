@@ -1,0 +1,9 @@
+{
+  "projectName": "cybernow",
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "framework": "nextjs",
+  "environment": {
+    "NEXT_PUBLIC_API_BASE_URL": "@next_public_api_base_url"
+  }
+}
